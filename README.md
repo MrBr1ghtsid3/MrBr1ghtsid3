@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrBr1ghtsid3
+- 👋 Hi, I’m @Br1ghtsid3
 - 👀 I’m interested in all things IT, literature, music, gaming and politics.
 - 🌱 I’m currently learning Front-End Web Development stack.
 - 💞️ I’m looking to collaborate on any little project, for the purposes of improving.
