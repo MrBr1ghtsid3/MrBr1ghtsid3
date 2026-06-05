@@ -1,10 +1,40 @@
-- 👋 Hi, I’m @Br1ghtsid3
-- 👀 I’m interested in all things IT, literature, music, gaming and politics.
-- 🌱 I’m currently practicing Cloud Infrastructure Automation, DevOps.
-- 💞️ I’m looking to collaborate on any little project, for the purposes of improving.
+# 👋 Hi, I'm Tsvetoslav Atanasov Shalev aka Sean — `@Br1ghtsid3`
 
+> 🧪 **This is my digital workbench of sorts.**
+> A living sandbox where I practise Cloud Infrastructure Automation & DevOps out in the open — playbooks, pipelines, and the occasional gloriously broken build. Experimenting here is how I learn, so expect work-in-progress over polish.
 
-<!---
-MrBr1ghtsid3/MrBr1ghtsid3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🛠️ Tools I build with
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+### 🌱 Currently levelling up
+
+- **Ansible** — taking it from config-management theory to production-grade, idempotent playbooks
+- **Docker** — containerisation patterns and local lab orchestration
+- **Python** — so many smart people use it day in, day out
+- **Azure AI Foundry** — exploring AI model deployment and prompt engineering on Azure
+- **Azure Monitor** — learning observability, alerting, and log analytics at scale
+- **Azure APIM** — API lifecycle management, policies, and gateway patterns
+- Building a structured DevOps practice lab on Ubuntu 24.04 (ansible-core, ansible-lint, VS Code, Git)
+
+### 🎯 A bit about me
+
+- 📜 Azure-certified: **AZ-400**, **AZ-104**, **AZ-900**, **HashiCorp Terraform Associate**
+- 👀 Into all things IT & literature, music, gaming, and philosophy
+- 💞️ Open to collaborating on small projects — the kind where everyone walks away having learnt something
+- ✍️ Off the clock: writing, Japanese aesthetics, and a long-game ambition toward narrative design or something geared towards the arts
+
+---
+
+### 📈 Stats
+
+![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrBr1ghtsid3&show_icons=true&theme=tokyonight&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrBr1ghtsid3&layout=compact&theme=tokyonight&hide_border=true)
