@@ -3,6 +3,8 @@
 > 🧪 **This is my digital workbench of sorts.**
 > A living sandbox where I practise Cloud Infrastructure Automation, DevOps & anything else that catches my attention. Experimenting here is one of the ways I learn. In other words, largely works-in-progress over polish.
 
+> 🔒 Primary development work is currently in private repositories pending cleanup for public release.
+
 ---
 
 ### 🛠️ Tools I build with
