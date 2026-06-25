@@ -3,8 +3,6 @@
 > 🧪 **This is my digital workbench of sorts.**
 > A living sandbox where I practise Cloud Infrastructure Automation, DevOps & anything else that catches my attention. Experimenting here is one of the ways I learn. In other words, largely works-in-progress over polish.
 
-> 🔒 Primary development work is currently in private repositories pending cleanup for public release.
-
 ---
 
 ### 🛠️ Tools I build with
@@ -22,7 +20,9 @@
 
 - **Ansible** — taking it from config-management theory to production-grade, idempotent playbooks
 - **Docker** — containerisation patterns and local lab orchestration
+- **Kubernetes** — hands-on practice
 - **Python** — so many smart people use it day in, day out
+- **PowerShell** — still my go-to for automated admin tasks in Windows
 - **Azure AI Foundry** — exploring AI model deployment and prompt engineering on Azure
 - **Azure Monitor** — learning observability, alerting, and log analytics at scale
 - **Azure APIM** — API lifecycle management, policies, and gateway patterns
